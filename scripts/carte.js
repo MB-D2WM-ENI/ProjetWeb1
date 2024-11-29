@@ -26,7 +26,7 @@ utiliserPref();
   .then(data => afficherData(data));*/
 
   // Lecture du fichier JSON en passant par GitHub Pages
-fetch('https://khyrana.github.io/ProjetWeb1/scripts/promo.json')
+fetch('https://mb-d2wm-eni.github.io/ProjetWeb1/scripts/promo.json')
 .then(response => response.json())
 .then(data => afficherData(data));
 
@@ -50,7 +50,7 @@ function afficherData(data){
 
   // Modification de l'image du pin
   const customIcon = L.icon({
-    iconUrl: 'https://khyrana.github.io/ProjetWeb1/images/marker.gif',
+    iconUrl: 'https://mb-d2wm-eni.github.io/ProjetWeb1/images/marker.gif',
     iconSize: [40, 40],
   });
 
