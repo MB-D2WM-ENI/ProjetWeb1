@@ -14,7 +14,7 @@ const sectionCarte = document.getElementById("sectionCarte");
   .then(data => afficherData(data));*/
 
   // Lecture du fichier JSON en passant par GitHub Pages
-fetch('https://khyrana.github.io/ProjetWeb1/scripts/promo.json')
+fetch('https://mb-d2wm-eni.github.io/ProjetWeb1/scripts/promo.json')
 .then(response => response.json())
 .then(data => afficherData(data));
 
