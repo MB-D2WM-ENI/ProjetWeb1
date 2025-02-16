@@ -22,3 +22,5 @@
 #### :palm_tree:  **Itération 3**
 - [x] 3.1 Page Accueil -> Permettre de visualiser le détail de la fiche d'un apprenant sous la forme d'une modale *(voir la maquette d'écran + consignes sur PDF)*
 - [ ] 3.2 Fichier JSON -> Modifier la structure du fichier pour qu'il contienne des données supplémentaires *(voir consignes sur PDF)*
+
+================== &copy; ENI - Tous droits réservés ==================
