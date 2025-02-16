@@ -24,4 +24,4 @@
 - [ ] 3.2 Fichier JSON -> Modifier la structure du fichier pour qu'il contienne des données supplémentaires *(voir consignes sur PDF)*
 
 ---
-===================================== &copy; ENI - Tous droits réservés ====================================
+========================= © ENI - Tous droits réservés =========================
